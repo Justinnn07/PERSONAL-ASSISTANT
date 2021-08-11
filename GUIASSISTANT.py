@@ -23,7 +23,6 @@ voice_id = 0 #0 for female, 1 for male
 ass_volume = 1 #max volume
 ass_voiceRate = 200 #normal voice rate
 
-####################################### IMPORTING MODULES ###########################################
 """ User Created Modules """
 try:
 	import normalChat
